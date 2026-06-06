@@ -1,7 +1,6 @@
 # Custom-Recovery-Builds-for-Messi-RMX3521
 
 
-Orange Fox Recovery Project
 
 Device Name : Realme 9 4G
 Build Device: messi
